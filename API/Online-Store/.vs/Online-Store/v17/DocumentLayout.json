@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|c:\\users\\ikusasa tech 18\\documents\\csharp projects\\crud\\api\\online-store\\online-store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|solutionrelative:online-store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|c:\\users\\ikusasa tech 18\\documents\\csharp projects\\crud\\api\\online-store\\online-store\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|solutionrelative:online-store\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|c:\\users\\ikusasa tech 18\\documents\\csharp projects\\crud\\api\\online-store\\online-store\\repository\\implimentation\\createcatrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|solutionrelative:online-store\\repository\\implimentation\\createcatrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|c:\\users\\ikusasa tech 18\\documents\\csharp projects\\crud\\api\\online-store\\online-store\\repository\\interface\\icreatecatrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|solutionrelative:online-store\\repository\\interface\\icreatecatrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|c:\\users\\ikusasa tech 18\\documents\\csharp projects\\crud\\api\\online-store\\online-store\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|solutionrelative:online-store\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|c:\\users\\ikusasa tech 18\\documents\\csharp projects\\crud\\api\\online-store\\online-store\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|solutionrelative:online-store\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|c:\\users\\ikusasa tech 18\\documents\\csharp projects\\crud\\api\\online-store\\online-store\\models\\dto\\createcatreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|solutionrelative:online-store\\models\\dto\\createcatreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|c:\\users\\ikusasa tech 18\\documents\\csharp projects\\crud\\api\\online-store\\online-store\\models\\dto\\catrespdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|solutionrelative:online-store\\models\\dto\\catrespdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|c:\\users\\ikusasa tech 18\\documents\\csharp projects\\crud\\api\\online-store\\online-store\\migrations\\20250528180658_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|solutionrelative:online-store\\migrations\\20250528180658_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|c:\\users\\ikusasa tech 18\\documents\\csharp projects\\crud\\api\\online-store\\online-store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|solutionrelative:online-store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|c:\\users\\ikusasa tech 18\\documents\\csharp projects\\crud\\api\\online-store\\online-store\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|solutionrelative:online-store\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|c:\\users\\ikusasa tech 18\\documents\\csharp projects\\crud\\api\\online-store\\online-store\\online-store.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|solutionrelative:online-store\\online-store.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|c:\\users\\ikusasa tech 18\\documents\\csharp projects\\crud\\api\\online-store\\online-store\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|solutionrelative:online-store\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|c:\\users\\ikusasa tech 18\\documents\\csharp projects\\crud\\api\\online-store\\online-store\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA7B1A4F-14CD-4DCE-A383-42A7C46F83E4}|Online-Store\\Online-Store.csproj|solutionrelative:online-store\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Program.cs",
+              "RelativeDocumentMoniker": "Online-Store\\Program.cs",
+              "ToolTip": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Program.cs",
+              "RelativeToolTip": "Online-Store\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwDAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:23:22.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Online-Store\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Online-Store\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:41:12.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCatRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Repository\\Implimentation\\CreateCatRepo.cs",
+              "RelativeDocumentMoniker": "Online-Store\\Repository\\Implimentation\\CreateCatRepo.cs",
+              "ToolTip": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Repository\\Implimentation\\CreateCatRepo.cs",
+              "RelativeToolTip": "Online-Store\\Repository\\Implimentation\\CreateCatRepo.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:18:01.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICreateCatRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Repository\\Interface\\ICreateCatRepo.cs",
+              "RelativeDocumentMoniker": "Online-Store\\Repository\\Interface\\ICreateCatRepo.cs",
+              "ToolTip": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Repository\\Interface\\ICreateCatRepo.cs",
+              "RelativeToolTip": "Online-Store\\Repository\\Interface\\ICreateCatRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:12:19.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Online-Store\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Online-Store\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:49:10.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Models\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "Online-Store\\Models\\Domain\\Category.cs",
+              "ToolTip": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Models\\Domain\\Category.cs",
+              "RelativeToolTip": "Online-Store\\Models\\Domain\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:41:26.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CatRespDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Models\\DTO\\CatRespDto.cs",
+              "RelativeDocumentMoniker": "Online-Store\\Models\\DTO\\CatRespDto.cs",
+              "ToolTip": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Models\\DTO\\CatRespDto.cs",
+              "RelativeToolTip": "Online-Store\\Models\\DTO\\CatRespDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:45:01.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateCatReqDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Models\\DTO\\CreateCatReqDto.cs",
+              "RelativeDocumentMoniker": "Online-Store\\Models\\DTO\\CreateCatReqDto.cs",
+              "ToolTip": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Models\\DTO\\CreateCatReqDto.cs",
+              "RelativeToolTip": "Online-Store\\Models\\DTO\\CreateCatReqDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:53:45.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250528180658_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Migrations\\20250528180658_Initial Migration.cs",
+              "RelativeDocumentMoniker": "Online-Store\\Migrations\\20250528180658_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Migrations\\20250528180658_Initial Migration.cs",
+              "RelativeToolTip": "Online-Store\\Migrations\\20250528180658_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:06:58.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Models\\Domain\\BlogPost.cs",
+              "RelativeDocumentMoniker": "Online-Store\\Models\\Domain\\BlogPost.cs",
+              "ToolTip": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Models\\Domain\\BlogPost.cs",
+              "RelativeToolTip": "Online-Store\\Models\\Domain\\BlogPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:30:55.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Online-Store\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Online-Store\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T17:20:14.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\appsettings.json",
+              "RelativeDocumentMoniker": "Online-Store\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\appsettings.json",
+              "RelativeToolTip": "Online-Store\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T17:19:43.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Online-Store\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\appsettings.Development.json",
+              "RelativeToolTip": "Online-Store\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T17:19:48.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Online-Store.csproj",
+              "DocumentMoniker": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Online-Store.csproj",
+              "RelativeDocumentMoniker": "Online-Store\\Online-Store.csproj",
+              "ToolTip": "C:\\Users\\Ikusasa Tech 18\\Documents\\Csharp Projects\\CRUD\\API\\Online-Store\\Online-Store\\Online-Store.csproj",
+              "RelativeToolTip": "Online-Store\\Online-Store.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T05:17:43.78Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
